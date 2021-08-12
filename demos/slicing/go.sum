@@ -1,0 +1,4 @@
+github.com/leaanthony/slicer v1.5.0 h1:aHYTN8xbCCLxJmkNKiLB6tgcMARl4eWmH9/F+S/0HtY=
+github.com/leaanthony/slicer v1.5.0/go.mod h1:FwrApmf8gOrpzEWM2J/9Lh79tyq8KTX5AzRtwV7m4AY=
+golang.org/dl v0.0.0-20210802195828-88b3c1d08963 h1:wB/xC5PIb5+k5uVQl14JmCqhvAwTjrHgPp/YC4av0nQ=
+golang.org/dl v0.0.0-20210802195828-88b3c1d08963/go.mod h1:IUMfjQLJQd4UTqG1Z90tenwKoCX93Gn3MAQJMOSBsDQ=
