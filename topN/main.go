@@ -1,3 +1,5 @@
+// selects the top N results from a list
+
 package main
 
 import "log"
